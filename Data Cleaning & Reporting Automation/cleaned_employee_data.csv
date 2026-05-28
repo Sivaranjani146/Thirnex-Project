@@ -1,0 +1,11 @@
+ID,Name,Department,Salary
+1,Alice,HR,25000.0
+2,Bob,IT,30000.0
+3,Charlie,Finance,32500.0
+4,Alice,HR,25000.0
+5,David,Unknown,40000.0
+6,Eva,IT,35000.0
+7,Frank,Finance,32500.0
+8,Grace,HR,28000.0
+9,No Name,IT,32000.0
+10,Helen,Finance,45000.0
